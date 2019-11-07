@@ -1,4 +1,5 @@
 class QuestionsController < ApplicationController
+
   def ask
   end
 
@@ -15,6 +16,4 @@ class QuestionsController < ApplicationController
     end
   end
 end
-
-
 
